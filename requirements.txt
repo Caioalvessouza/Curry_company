@@ -7,4 +7,4 @@ matplotlib ==3.5.3
 matplotlib-inline ==0.1.6
 haversine == 2.7.0
 streamlit - folim ==0.7.0
-pillow 9.2.0
+pillow>=9.2.0
