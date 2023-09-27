@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import folium
-##from streamlit_folium import folium_static
+from streamlit_folium import folium_static
 import matplotlib.pyplot as plt
 import streamlit as st
 from datetime import datetime
