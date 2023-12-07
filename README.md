@@ -1,2 +1,2 @@
 # Curry_company
-This repository contains files and script to build a company  strategy Dshboafd
+This repository contains files and script to build a company  strategy Dashboard
